@@ -1,0 +1,3 @@
+name: FusedPlugin
+version: 1.0
+main: org.cyberpwn.fusionexample.ExamplePlugin
