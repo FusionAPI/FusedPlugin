@@ -1,11 +1,11 @@
 package org.cyberpwn.fusionexample;
 
-import org.cyberpwn.fusionapi.type.FusionMaterial;
+import org.cyberpwn.fusionapi.type.FusionBlock;
 
-public class BlockSapphireOre extends FusionMaterial
+public class BlockSapphireOre extends FusionBlock
 {
 	public BlockSapphireOre()
 	{
-		super("texture_sapphire_ore");
+		super("texture_sapphire_ore", "sound_stone");
 	}
 }
